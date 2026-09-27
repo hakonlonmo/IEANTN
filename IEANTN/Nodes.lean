@@ -55,6 +55,7 @@ import IEANTN.Nodes.PlattZeroSum.v1.Challenge
 import IEANTN.Nodes.PrimeInterval.v1.Challenge
 import IEANTN.Nodes.PrimeInterval.v1.Examples
 import IEANTN.Nodes.RosserSchoenfeld.v1.Challenge
+import IEANTN.Nodes.RosserSchoenfeld1962.v1.Challenge
 import IEANTN.Nodes.Trudgian2011.v1.Challenge
 import IEANTN.Nodes.Wedeniwski.v1.Challenge
 import IEANTN.Nodes.ZeroCount.v1.Challenge
